@@ -1,4 +1,4 @@
-{
+{"status":{
   "text": "I would like to book a shipment from Hamburg to Hong Kong on the 1st of November.",
   "operator": false,
   "time" : "11/01/2020 17:45:00",
@@ -31,4 +31,5 @@
         "name" : "John Smith"
       }
   }]
+}
 }
